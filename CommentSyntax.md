@@ -20,7 +20,7 @@
 ```
 5. PHP
 ```
-//Single Line Comment
+//Single Line Comment OR #Single Line Comment
 /*Multi-Line Comment*/
 /**Documentation Comment*/
 ```
