@@ -10,3 +10,5 @@ This is a repository where I will upload all notes that I find helpful, not only
 [CommentSyntax.md](https://github.com/Lava97/Notes/blob/master/CommentSyntax.md)
 
 [DataTypesC.md](https://github.com/Lava97/Notes/blob/master/DataTypesC.md)
+
+[ErrorsInPHP.md](https://github.com/Lava97/Notes/blob/master/ErrorsInPHP.md)
