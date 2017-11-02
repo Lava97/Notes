@@ -5,6 +5,8 @@ This is a repository where I will upload all notes that I find helpful, not only
 
 
 ## Contents
+[Android](https://github.com/Lava97/Notes/tree/master/Android)
+
 [README.md](https://github.com/Lava97/Notes/blob/master/README.md)
 
 [CommentSyntax.md](https://github.com/Lava97/Notes/blob/master/CommentSyntax.md)
