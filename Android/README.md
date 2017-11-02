@@ -5,4 +5,4 @@ This folder will contain all Android related notes that I find helpful, not only
 
 
 ## Contents
-[README.md](https://github.com/Lava97/Notes/Android/blob/master/README.md)
+[README.md](https://github.com/Lava97/Notes/blob/master/Android/README.md)
